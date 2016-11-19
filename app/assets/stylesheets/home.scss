@@ -26,15 +26,39 @@
 	.how-it-works {
 		height: 700px;
 		padding-top: 50px;
+		padding-left: 30px;
+		padding-right: 30px;
 
 		h1 {
 			text-align: center;
 		}
 	}
 
-	.message-right-one {
-		max-width: 45%;
+	.bubble {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.bubble .message-right-one {
+		max-width: 55%;
 		float: right;
+	}
+
+	.bubble .message-left-three {
+		max-width: 55%;
+		float: left;
+		clear: right;
+		padding-top: 10px;
+	}
+
+	.bubble .message-right-one-four {
+		max-width: 18%;
+		float: right;
+		clear: left;
+	}
+
+	.step-two {
+		padding-top: 100px;		
 	}
 /*** end Section-Two ***/
 
