@@ -1,0 +1,40 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+/*** Section-One ***/
+.section-one {
+	background-color: #E7F2FC;
+	height: 700px;
+
+	.logo-header {
+		padding-top: 50px;
+
+		img {
+			max-width: 150px;
+		}
+	}
+
+	.hero {
+		padding-top: 125px;
+		text-align: center;
+	}
+}
+/*** end of Section-One ***/
+
+/*** Section-Two ***/
+	.how-it-works {
+		height: 700px;
+		padding-top: 50px;
+
+		h1 {
+			text-align: center;
+		}
+	}
+
+	.message-right-one {
+		max-width: 45%;
+		float: right;
+	}
+/*** end Section-Two ***/
+
