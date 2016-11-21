@@ -90,6 +90,28 @@
 	}
 /*** end Section-Two ***/
 
+/*** Section-Three ***/
+
+.section-three {
+	height: 400px;
+	background-color: #F7F6F6;
+}
+
+.try-it-now {
+	text-align: center;
+	padding-top: 100px;
+
+	h1 {
+		padding-bottom: 10px;
+	}
+
+	p {
+		padding-bottom: 10px;
+	}
+}
+
+/*** end of Section-Three ***/
+
 
 /***iPhone6 Plus or less***/
 @media only screen and (max-width: 767px) {
