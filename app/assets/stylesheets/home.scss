@@ -94,27 +94,30 @@
 /***iPhone6 Plus or less***/
 @media only screen and (max-width: 767px) {
 	.bubble .message-right-one {
-	  max-width: 80%;
+	  max-width: 100%;
 	}
 
 	.bubble .message-left-three {
-	  max-width: 80%;
+	  max-width: 100%;
 	}
 
 	.bubble .message-right-one-four {
-	  max-width: 24%;
+	  // max-width: 24%;
+	  max-width: 35%;
 	}
 
 	.bubble .message-left-eight {
-	  max-width: 80%;
+	  max-width: 100%;
 	}
 
 	.bubble .message-right-nine {
-    max-width: 60%;
+    // max-width: 60%;
+    max-width: 90%;
 	}
 
 	.bubble .message-left-ten {
-		max-width: 65%;
+		// max-width: 65%;
+		max-width: 90%;
 	}
 }
 
