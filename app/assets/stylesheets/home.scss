@@ -24,74 +24,74 @@
 
 /*** Section-Two ***/
 
-	.section-two {
-		height: 1150px;
-		padding-top: 50px;
-	}
+.section-two {
+	height: 1150px;
+	padding-top: 50px;
+}
 
-	.how-it-works {
-		padding-left: 30px;
-		padding-right: 30px;
+.how-it-works {
+	padding-left: 30px;
+	padding-right: 30px;
 
-		h1 {
-			text-align: center;
-		}
+	h1 {
+		text-align: center;
 	}
+}
 
-	.bubble {
-		padding-top: 20px;
-		padding-left: 30px;
-		padding-right: 30px;
-	}
+.bubble {
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
 
-	.bubble .message-right-one {
-		max-width: 55%;
-		float: right;
-	}
+.bubble .message-right-one {
+	max-width: 55%;
+	float: right;
+}
 
-	.bubble .message-left-three {
-		max-width: 55%;
-		float: left;
-		clear: right;
-		padding-top: 10px;
-	}
+.bubble .message-left-three {
+	max-width: 55%;
+	float: left;
+	clear: right;
+	padding-top: 10px;
+}
 
-	.bubble .message-right-one-four {
-		max-width: 17%;
-		float: right;
-		clear: left;
-	}
+.bubble .message-right-one-four {
+	max-width: 17%;
+	float: right;
+	clear: left;
+}
 
-	.bubble .message-left-eight {
-		padding-top: 10px;
-		max-width: 55%;
-		float: left;
-		clear: right;
-	}
+.bubble .message-left-eight {
+	padding-top: 10px;
+	max-width: 55%;
+	float: left;
+	clear: right;
+}
 
-	.bubble .message-right-nine {
-		padding-top: 5px;
-		max-width: 45%;
-		float: right;
-		clear: left;
-	}
+.bubble .message-right-nine {
+	padding-top: 5px;
+	max-width: 45%;
+	float: right;
+	clear: left;
+}
 
-	.bubble .message-left-ten {
-		max-width: 48%;
-		padding-top: 10px;
-		float: left;
-		clear: both;
-	}
+.bubble .message-left-ten {
+	max-width: 48%;
+	padding-top: 10px;
+	float: left;
+	clear: both;
+}
 
-	.step-two {
-		padding-top: 50px;	
-		clear: right;	
-	}
+.step-two {
+	padding-top: 50px;	
+	clear: right;	
+}
 
-	.step-three {
-		clear: both;
-		padding-top: 50px;
-	}
+.step-three {
+	clear: both;
+	padding-top: 50px;
+}
 /*** end Section-Two ***/
 
 /*** Section-Three ***/
@@ -142,5 +142,10 @@
 	.bubble .message-left-ten {
 		max-width: 70%;
 	}
+
+	.section-two {
+	  height: 1100px;
+	}
 }
+
 
