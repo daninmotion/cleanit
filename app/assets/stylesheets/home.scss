@@ -23,9 +23,13 @@
 /*** end of Section-One ***/
 
 /*** Section-Two ***/
-	.how-it-works {
+
+	.section-two {
 		height: 1150px;
 		padding-top: 50px;
+	}
+
+	.how-it-works {
 		padding-left: 30px;
 		padding-right: 30px;
 
@@ -93,13 +97,13 @@
 /*** Section-Three ***/
 
 .section-three {
-	height: 400px;
+	height: 300px;
 	background-color: #F7F6F6;
 }
 
 .try-it-now {
 	text-align: center;
-	padding-top: 100px;
+	padding-top: 50px;
 
 	h1 {
 		padding-bottom: 10px;
